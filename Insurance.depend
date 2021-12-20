@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\hp\desktop\course\insurance\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1565602427 source:c:\users\hp\desktop\course\insurance\insurance.c
+	<stdio.h>
+	<stdlib.h>
+
